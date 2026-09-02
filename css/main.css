@@ -16,3 +16,19 @@ body{
     display:inline-block;
     vertical-align: middle;
 }
+
+.main-navigation__item{
+    display:inline-block;
+    padding:10px;
+}
+
+.main-navigation__item a{
+    text-decoration: none;
+    font-size:15px;
+    padding: 0px 0px 13px;
+    color:#20292f;
+}
+
+.main-navigation__item a:hover{
+    color:#71818c;
+}
