@@ -1,0 +1,18 @@
+body{
+    font-family:sans-serif;
+}
+
+.container{
+    margin:0 auto;
+}
+
+.header-title{
+    display:inline-block;
+    font-size:24px;
+    font-weight:bold;
+}
+
+.main-navigation{
+    display:inline-block;
+    vertical-align: middle;
+}
