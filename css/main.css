@@ -29,6 +29,12 @@ body{
     font-size:24px;
     font-weight:bold;
 }
+.main-header{
+    position:fixed;
+    background-color: #FFF;
+    width:100%;
+    z-index:10;
+}
 
 .main-navigation{
     display:inline-block;
