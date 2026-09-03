@@ -9,6 +9,19 @@ body{
     display: flex;
     justify-content: space-around;
 }
+.section-title{
+    font-size:12px;
+    color:orange;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+.section-subtitle{
+    font-size:36px;
+    color:#333;
+    font-weight:600;
+    line-height:47px;
+    margin-top:5px;
+}
 
 /*header section*/
 .header-title{
@@ -64,12 +77,12 @@ body{
     position: relative;
     top:83px;
 }
-.section-title{
+.main-section__title{
     color:#fff;
     font-size:54px;
     margin-left:38px;
 }
-.section-description{
+.main-section__description{
     color:#fff;
     font-size:16px;
     line-height:30px;
@@ -103,4 +116,54 @@ body{
     font-size:13px;
     color:#00000066;
     font-weight:bold;
+}
+
+/*Service section*/
+.services-section{
+    display:flex;
+    justify-content: space-evenly;
+    margin-top:140px;
+}
+.services-info{
+    margin-left:180px;
+}
+.service-button{
+    margin-left:0;
+    background-color: #0752fe;
+    border:1px solid #0752fe
+}
+.service-section__card{
+    background: #fefdfd;
+    border:1px solid #FFF;
+}
+.title{
+    font-size:24px;
+    opacity:0.7;
+}
+.description{
+    color: #666666;
+    line-height:30px;
+    font-size:14px;
+    margin-top:0px;
+}
+.click{
+    border:none;
+    color: #2970FA;
+    font-size:12px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight:bold;
+    cursor: pointer;
+}
+.service-cards{
+    background: #FFF;
+    border:1px solid #FFF;
+    display:flex;
+    justify-content: space-evenly;
+}
+.service-card-1, .service-card-3{
+    margin-top:80px;
+}
+.service-card-2{
+    margin-top:-105px;
 }
