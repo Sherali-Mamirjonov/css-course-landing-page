@@ -140,7 +140,7 @@ body{
     border:1px solid #0752fe
 }
 .service-section__card{
-    background: #fefdfd;
+    background: #F8FAFF;
     border:1px solid #FFF;
 }
 .title{
@@ -175,6 +175,6 @@ body{
     top:-105px;
 }
 .service-card-1, .service-card-2,.service-card-3{
-    background: #fefdfd;
+    background: #F8FAFF;
     border:1px solid #FFF;
 }
