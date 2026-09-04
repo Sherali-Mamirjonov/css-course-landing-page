@@ -22,6 +22,12 @@ body{
     line-height:47px;
     margin-top:5px;
 }
+.section-description{
+    color: #666666;
+    line-height:30px;
+    font-size:14px;
+    margin-top:0px;
+}
 
 /*header section*/
 .header-title{
@@ -150,12 +156,6 @@ body{
     font-size:24px;
     opacity:0.7;
 }
-.description{
-    color: #666666;
-    line-height:30px;
-    font-size:14px;
-    margin-top:0px;
-}
 .click{
     border:none;
     color: #2970FA;
@@ -180,4 +180,20 @@ body{
 .service-card-1, .service-card-2,.service-card-3{
     background: #F8FAFF;
     border:1px solid #FFF;
+}
+
+/*Features section*/
+.features-section{
+    display:flex;
+    justify-content: center;;
+    margin-top:140px;
+}
+.features-image img{
+    width:404px;
+    height:238px;
+    margin-left:50px;
+}
+.features-infos{
+    display:grid;
+    grid-template-columns: auto auto auto;
 }
