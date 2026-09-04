@@ -195,9 +195,9 @@ body{
 }
 
 .features-infos{
-    margin-top:15px;
+    position: relative;
+    bottom: 60px;
 }
-
 .info1{
     display:flex;
     justify-content: center;
@@ -216,5 +216,5 @@ body{
     margin-right:25px;
 }
 .info2{
-    
+    margin-top:-85px;
 }
