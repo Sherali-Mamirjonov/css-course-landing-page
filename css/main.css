@@ -220,8 +220,17 @@ body{
 }
 
 /*Pricing section*/
+.pricing-banner{
+    width:100%;
+    padding-top:160px;
+    padding-bottom:12vw;
+    background-repeat:no-repeat;
+     background-size: contain;
+    background-position: center bottom 0px;
+    background-image: url(https://www.elegantthemes.com/layouts/wp-content/uploads/2018/08/hosting-company-01.png), linear-gradient(180deg, #ffffff 0%, #eef9ff 100%) !important;
+}
 .pricing{
-    margin-top:80px;
+    margin-top:0px;
 }
 .pricing-info{
     text-align:center;
@@ -232,6 +241,7 @@ body{
     justify-content: center;
 }
 .pricing-card{
+    background:#FFF;
     border:1px solid #EEF9FF;
     border-radius:30px;
     width:20%;
@@ -276,4 +286,7 @@ body{
 .pricing span{
     font-size:16px;
     color:#999999;
+}
+.pricing hr{
+    opacity:0.15;
 }
