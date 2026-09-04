@@ -218,3 +218,34 @@ body{
 .info2{
     margin-top:-85px;
 }
+
+/*Pricing section*/
+.pricing{
+    margin-top:80px;
+}
+.pricing-info{
+    text-align:center;
+}
+.pricing-cards{
+    margin-top:70px;
+    display:flex;
+    justify-content: center;
+}
+.pricing-card{
+    border:1px solid #EEF9FF;
+    border-radius:10px;
+    width:20%;
+    margin-right:3%;
+    height:518px;
+    box-sizing: border-box;
+}
+.pricing-item{
+    font-size:16px;
+    color: #666666;
+    line-height:47px;
+}
+.pricing-button{
+    background: #FF8F001A;
+    color:#FF8F00;
+    border-color: #FF8F001A;
+}
