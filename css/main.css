@@ -9,13 +9,13 @@ body{
     display: flex;
     justify-content: space-around;
 }
-.section-title{
+.section-subtitle{
     font-size:12px;
     color:orange;
     text-transform: uppercase;
     letter-spacing: 2px;
 }
-.section-subtitle{
+.section-title{
     font-size:36px;
     color:#333;
     font-weight:600;
@@ -163,6 +163,7 @@ body{
     cursor: pointer;
 }
 .service-cards{
+    position: relative;
     display:flex;
     justify-content: space-evenly;
 }
@@ -170,7 +171,8 @@ body{
     margin-top:80px;
 }
 .service-card-2{
-    margin-top:-105px;
+    position: absolute;
+    top:-105px;
 }
 .service-card-1, .service-card-2,.service-card-3{
     background: #fefdfd;
