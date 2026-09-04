@@ -258,6 +258,7 @@ body{
 .pricing-button-3{
     background:rgba(41, 207, 141, 0.1);
     color:#29cf8d;
+    border-color:#FFF;
 }
 
 .pricing-subtitle-2{
@@ -268,4 +269,7 @@ body{
 }
 .pricing-subtitle, .pricing-subtitle-2, .pricing-subtitle-3{
     margin-left:20px;
+}
+.disabled{
+    
 }
