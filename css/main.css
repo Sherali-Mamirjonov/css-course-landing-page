@@ -273,3 +273,7 @@ body{
 .disabled{
     color: #CCCCCC;
 }
+.pricing span{
+    font-size:16px;
+    color:#999999;
+}
