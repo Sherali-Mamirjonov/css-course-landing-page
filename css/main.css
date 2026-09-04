@@ -193,7 +193,23 @@ body{
     height:238px;
     margin-left:50px;
 }
+
 .features-infos{
-    display:grid;
-    grid-template-columns: auto auto auto;
+    margin-top:85px;
+}
+
+.info1{
+    display:flex;
+    justify-content: center;
+}
+.info1 img{
+    margin-right:20px;
+    width:auto;
+    height:auto;
+}
+.feature-description{
+    font-size:14px;
+    color:#666666;
+    line-height:27px;
+    margin-right:25px;
 }
