@@ -233,7 +233,7 @@ body{
 }
 .pricing-card{
     border:1px solid #EEF9FF;
-    border-radius:10px;
+    border-radius:30px;
     width:20%;
     margin-right:3%;
     height:518px;
@@ -248,4 +248,24 @@ body{
     background: #FF8F001A;
     color:#FF8F00;
     border-color: #FF8F001A;
+}
+.pricing-button-2{
+    background:#0752fe;
+    color:#FFFF;
+    border-color:#0752fe;
+}
+
+.pricing-button-3{
+    background:rgba(41, 207, 141, 0.1);
+    color:#29cf8d;
+}
+
+.pricing-subtitle-2{
+    color:#0752fe;
+}
+.pricing-subtitle-3{
+    color:#29CF8D;
+}
+.pricing-subtitle, .pricing-subtitle-2, .pricing-subtitle-3{
+    margin-left:20px;
 }
