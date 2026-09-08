@@ -334,3 +334,14 @@ body{
 .management-description{
     margin-top:-10px;
 }
+
+/*Additional section*/
+.additional__section{
+    position: relative;
+    padding-top: 15vw;
+    padding-bottom: 18vw;
+    background-repeat:no-repeat;
+    background-size: contain;
+    background-position: center top;
+    background-image: url(https://www.elegantthemes.com/layouts/wp-content/uploads/2018/08/hosting-company-02.png), linear-gradient(150deg, #ffba61 0%, #ffe970 100%) !important;
+}
