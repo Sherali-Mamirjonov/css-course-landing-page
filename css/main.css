@@ -421,13 +421,18 @@ body{
     content: "";
 }
 
+/*Customers section*/
+
 .customers{
-    margin-top:50px;
+    margin-top:130px;
     position: relative;
     background-color: #fff;
     background-position: 50%;
     background-size: 100%;
     background-size: cover;
+}
+.customers-intro{
+    text-align: center;
 }
 .customers-cards{
     display: flex;
@@ -463,4 +468,16 @@ body{
 }
 .customer-info{
     margin-top:10px;
+}
+.author{
+    font-size:16px;
+    color:#666666;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.card span{
+    position: relative;
+    bottom:23px;
+    font-size:14px;
+    font-family:Arial, Helvetica, sans-serif;
+    color:#666666;
 }
