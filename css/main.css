@@ -481,3 +481,63 @@ body{
     font-family:Arial, Helvetica, sans-serif;
     color:#666666;
 }
+
+/*Satisfaction section*/
+.satisfaction{
+    margin-top:120px;
+}
+.satisfaction-title{
+    text-align:center;
+    font-size:38px;
+}
+.satisfaction-cards{
+    margin-top:55px;
+    display:flex;
+    justify-content: center;
+}
+.satisfaction-card{
+    background-position: left bottom 0px;
+    background-image: url(https://www.elegantthemes.com/layouts/wp-content/uploads/2018/08/hosting-company-06.png), linear-gradient(237deg, #46b3ff 0%, #0752fe 100%);
+    background-color: #7EBEC5;
+    border-radius: 24px 24px 24px 24px;
+    overflow: hidden;
+    width:550px;
+    height:270px;
+    margin-right:50px;
+    border:1px solid #46b3ff;
+    background-color: #0752fe;
+}
+.second-card{
+    background-position: left bottom 0px;
+    background-image: url(https://www.elegantthemes.com/layouts/wp-content/uploads/2018/08/hosting-company-07-1.png), linear-gradient(150deg, #ffba61 0%, #ffdc71 100%);
+    background-color: #7EBEC5;
+    border-radius: 24px 24px 24px 24px;
+    overflow: hidden;
+    border-color:#ffdc71
+}
+.satisfaction-card h2{
+    text-align: center;
+    font-size:26px;
+    color:#ffffff;
+    font-family:Arial, Helvetica, sans-serif;
+    padding: 0px 0px 10px;
+}
+.satisfaction-card p{
+    font-size:16px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:#ffffff;
+    line-height:27px;
+    text-align: center;
+}
+.satisfaction-btn{
+    margin-left:30px;;
+    border-color: #FF8F001A;
+    border:1px solid #FF8F001A;
+    border-radius:5px;
+    background-color:#263547;
+    color: #fff;
+    padding:15px 30px;
+    text-transform: uppercase;
+    cursor: pointer;
+    margin-top:20px;
+}
