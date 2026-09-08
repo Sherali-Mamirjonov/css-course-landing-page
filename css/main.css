@@ -337,11 +337,32 @@ body{
 
 /*Additional section*/
 .additional__section{
+    width:100%;
     position: relative;
     padding-top: 15vw;
-    padding-bottom: 18vw;
+    padding-bottom: 5vw;
     background-repeat:no-repeat;
     background-size: contain;
-    background-position: center top;
+    background-position: top center 0px;
     background-image: url(https://www.elegantthemes.com/layouts/wp-content/uploads/2018/08/hosting-company-02.png), linear-gradient(150deg, #ffba61 0%, #ffe970 100%) !important;
+}
+.additional-section__info{
+    text-align:center;
+}
+.additional-section__info h2{
+    font-family: 'Rubik', Helvetica, Arial, Lucida, sans-serif;
+    font-weight: bold;
+    font-size: 52px;
+    line-height: 1.2em;
+    color:#fff;
+    padding-bottom:10px;
+}
+.additional-section__info p{
+    font-size:16px;
+    font-family:Arial, Helvetica, sans-serif;
+    color:#fff;
+    line-height:35px;
+}
+.additional-btn{
+    width:140px;
 }
