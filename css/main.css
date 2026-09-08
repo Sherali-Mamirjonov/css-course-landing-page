@@ -112,9 +112,11 @@ body{
     background-color:#263547;
     color: #fff;
     padding:15px 30px;
-    margin-left:42px;
     text-transform: uppercase;
     cursor: pointer;
+}
+.main-button{
+    margin-left:42px;
 }
 
 /*Additional section*/
@@ -311,8 +313,24 @@ body{
     height:auto;
 }
 .management-btn{
-    margin-left:90px;
     background:#0752fe;
     color:#FFFF;
     border-color:#0752fe;
+    margin-top:20px;
+}
+.management-description{
+    position: relative;
+    left:40px;
+}
+.intro{
+    margin-left:40px;
+    margin-top:0;
+}
+.management-info__first > div{
+    position: relative;
+    top:36px;
+    right:5px;
+}
+.management-description{
+    margin-top:-10px;
 }
