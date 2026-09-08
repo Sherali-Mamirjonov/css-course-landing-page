@@ -420,3 +420,47 @@ body{
     transform: rotate(45deg);
     content: "";
 }
+
+.customers{
+    margin-top:50px;
+    position: relative;
+    background-color: #fff;
+    background-position: 50%;
+    background-size: 100%;
+    background-size: cover;
+}
+.customers-cards{
+    display: flex;
+    justify-content: center;
+    
+}
+.customers-card{
+    border:1px solid #ffffff;
+    border-radius:12px;
+    width:25%;
+    height:430px;
+    padding:20px;
+    margin-right:3%;
+    box-sizing: border-box;
+    text-align: center;
+     background-size: initial;
+    background-position: center bottom 0px;
+    background-image: url(https://www.elegantthemes.com/layouts/wp-content/uploads/2018/08/hosting-company-04.png);
+    background-repeat: no-repeat;
+    background-color: #ffffff;
+    border-radius: 24px 24px 24px 24px;
+    overflow: hidden;
+    background-color: #ffffff;
+    
+}
+.card{
+    background-color: #F8FAFF;
+}
+.customers-card img{
+    height:130px;
+    width:130px;
+    border-radius:50%;
+}
+.customer-info{
+    margin-top:10px;
+}
