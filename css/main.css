@@ -393,9 +393,30 @@ body{
     padding:15px 30px;
 }
 .setup-features ul li{
+    position: relative;
     line-height:45px;
     font-size:16px;
     font-weight:bolder;
     font-family: Arial, Helvetica, sans-serif;
     list-style: none;
+}
+.custom{
+    position:absolute;
+    border-radius: 50%;
+    margin-top:-32px;
+    left:0;
+    width:22px;
+    height:22px;
+    background-color: #ff8f00;
+}
+.custom:after{
+    position:absolute;
+    top:4px;
+    left:8px;
+    width:5px;
+    height:10px;
+    border:solid #fff;
+    border-width: 0 3px 3px 0;
+    transform: rotate(45deg);
+    content: "";
 }
