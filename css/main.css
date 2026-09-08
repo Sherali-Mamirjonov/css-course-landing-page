@@ -300,3 +300,19 @@ body{
 .pricing hr{
     opacity:0.15;
 }
+
+/*management-section*/
+.management{
+    display:flex;
+    justify-content: space-evenly;
+}
+.management-image img{
+    width:524px;
+    height:auto;
+}
+.management-btn{
+    margin-left:90px;
+    background:#0752fe;
+    color:#FFFF;
+    border-color:#0752fe;
+}
