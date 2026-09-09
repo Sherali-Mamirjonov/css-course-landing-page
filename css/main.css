@@ -546,3 +546,7 @@ footer{
 .footer-contact a{
     text-decoration: none;
 }
+.footer-contact a i{
+    font-size:28px;
+    color:#666666;
+}
