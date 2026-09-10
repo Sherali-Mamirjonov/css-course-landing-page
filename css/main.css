@@ -146,6 +146,7 @@
     height:60px;
 }
 .feature-description{
+    font-family: 'Open Sans', sans-serif;
     font-size:14px;
     color:#666666;
     line-height:27px;
@@ -187,6 +188,7 @@
     box-sizing: border-box;
 }
 .pricing-item{
+    font-family: 'Open Sans',sans-serif;
     margin-left:15px;
     font-size:16px;
     color: #666666;
