@@ -398,6 +398,7 @@ body{
     margin-top:5px;
 }
 .section-description{
+    font-family: 'Open Sans', sans-serif;
     color: #666666;
     line-height:30px;
     font-size:14px;
