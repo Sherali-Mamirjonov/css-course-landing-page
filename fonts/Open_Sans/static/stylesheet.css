@@ -1,10 +1,10 @@
 @font-face {
     font-family: 'Open Sans Condensed';
-    src: url('OpenSansCondensed-Bold.eot');
-    src: url('OpenSansCondensed-Bold.eot?#iefix') format('embedded-opentype'),
-        url('OpenSansCondensed-Bold.woff2') format('woff2'),
-        url('OpenSansCondensed-Bold.woff') format('woff'),
-        url('OpenSansCondensed-Bold.ttf') format('truetype');
+    src:  url('../fonts/Open_Sans/static/OpenSansCondensed-Bold.eot');
+    src:  url('../fonts/Open_Sans/static/OpenSansCondensed-Bold.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Open_Sans/static/OpenSansCondensed-Bold.woff2') format('woff2'),
+         url('../fonts/Open_Sans/static/OpenSansCondensed-Bold.woff') format('woff'),
+         url('../fonts/Open_Sans/static/OpenSansCondensed-Bold.ttf') format('truetype');
     font-weight: bold;
     font-style: normal;
     font-display: swap;
@@ -12,11 +12,11 @@
 
 @font-face {
     font-family: 'Open Sans Condensed';
-    src: url('OpenSansCondensed-BoldItalic.eot');
-    src: url('OpenSansCondensed-BoldItalic.eot?#iefix') format('embedded-opentype'),
-        url('OpenSansCondensed-BoldItalic.woff2') format('woff2'),
-        url('OpenSansCondensed-BoldItalic.woff') format('woff'),
-        url('OpenSansCondensed-BoldItalic.ttf') format('truetype');
+    src:  url('../fonts/Open_Sans/static/OpenSansCondensed-BoldItalic.eot');
+    src:  url('../fonts/Open_Sans/static/OpenSansCondensed-BoldItalic.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Open_Sans/static/OpenSansCondensed-BoldItalic.woff2') format('woff2'),
+         url('../fonts/Open_Sans/static/OpenSansCondensed-BoldItalic.woff') format('woff'),
+         url('../fonts/Open_Sans/static/OpenSansCondensed-BoldItalic.ttf') format('truetype');
     font-weight: bold;
     font-style: italic;
     font-display: swap;
@@ -24,11 +24,11 @@
 
 @font-face {
     font-family: 'Open Sans Condensed';
-    src: url('OpenSansCondensed-Italic.eot');
-    src: url('OpenSansCondensed-Italic.eot?#iefix') format('embedded-opentype'),
-        url('OpenSansCondensed-Italic.woff2') format('woff2'),
-        url('OpenSansCondensed-Italic.woff') format('woff'),
-        url('OpenSansCondensed-Italic.ttf') format('truetype');
+    src:  url('../fonts/Open_Sans/static/OpenSansCondensed-Italic.eot');
+    src:  url('../fonts/Open_Sans/static/OpenSansCondensed-Italic.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Open_Sans/static/OpenSansCondensed-Italic.woff2') format('woff2'),
+         url('../fonts/Open_Sans/static/OpenSansCondensed-Italic.woff') format('woff'),
+         url('../fonts/Open_Sans/static/OpenSansCondensed-Italic.ttf') format('truetype');
     font-weight: normal;
     font-style: italic;
     font-display: swap;
@@ -36,11 +36,11 @@
 
 @font-face {
     font-family: 'Open Sans Condensed';
-    src: url('OpenSansCondensed-Light.eot');
-    src: url('OpenSansCondensed-Light.eot?#iefix') format('embedded-opentype'),
-        url('OpenSansCondensed-Light.woff2') format('woff2'),
-        url('OpenSansCondensed-Light.woff') format('woff'),
-        url('OpenSansCondensed-Light.ttf') format('truetype');
+    src:  url('../fonts/Open_Sans/static/OpenSansCondensed-Light.eot');
+    src:  url('../fonts/Open_Sans/static/OpenSansCondensed-Light.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Open_Sans/static/OpenSansCondensed-Light.woff2') format('woff2'),
+         url('../fonts/Open_Sans/static/OpenSansCondensed-Light.woff') format('woff'),
+         url('../fonts/Open_Sans/static/OpenSansCondensed-Light.ttf') format('truetype');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -48,11 +48,11 @@
 
 @font-face {
     font-family: 'Open Sans Condensed';
-    src: url('OpenSansCondensed-LightItalic.eot');
-    src: url('OpenSansCondensed-LightItalic.eot?#iefix') format('embedded-opentype'),
-        url('OpenSansCondensed-LightItalic.woff2') format('woff2'),
-        url('OpenSansCondensed-LightItalic.woff') format('woff'),
-        url('OpenSansCondensed-LightItalic.ttf') format('truetype');
+    src:  url('../fonts/Open_Sans/static/OpenSansCondensed-LightItalic.eot');
+    src:  url('../fonts/Open_Sans/static/OpenSansCondensed-LightItalic.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Open_Sans/static/OpenSansCondensed-LightItalic.woff2') format('woff2'),
+         url('../fonts/Open_Sans/static/OpenSansCondensed-LightItalic.woff') format('woff'),
+         url('../fonts/Open_Sans/static/OpenSansCondensed-LightItalic.ttf') format('truetype');
     font-weight: 300;
     font-style: italic;
     font-display: swap;
@@ -60,11 +60,11 @@
 
 @font-face {
     font-family: 'Open Sans Condensed';
-    src: url('OpenSansCondensed-Medium.eot');
-    src: url('OpenSansCondensed-Medium.eot?#iefix') format('embedded-opentype'),
-        url('OpenSansCondensed-Medium.woff2') format('woff2'),
-        url('OpenSansCondensed-Medium.woff') format('woff'),
-        url('OpenSansCondensed-Medium.ttf') format('truetype');
+    src:  url('../fonts/Open_Sans/static/OpenSansCondensed-Medium.eot');
+    src:  url('../fonts/Open_Sans/static/OpenSansCondensed-Medium.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Open_Sans/static/OpenSansCondensed-Medium.woff2') format('woff2'),
+         url('../fonts/Open_Sans/static/OpenSansCondensed-Medium.woff') format('woff'),
+         url('../fonts/Open_Sans/static/OpenSansCondensed-Medium.ttf') format('truetype');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -72,11 +72,11 @@
 
 @font-face {
     font-family: 'Open Sans Condensed';
-    src: url('OpenSansCondensed-MediumItalic.eot');
-    src: url('OpenSansCondensed-MediumItalic.eot?#iefix') format('embedded-opentype'),
-        url('OpenSansCondensed-MediumItalic.woff2') format('woff2'),
-        url('OpenSansCondensed-MediumItalic.woff') format('woff'),
-        url('OpenSansCondensed-MediumItalic.ttf') format('truetype');
+    src:  url('../fonts/Open_Sans/static/OpenSansCondensed-MediumItalic.eot');
+    src:  url('../fonts/Open_Sans/static/OpenSansCondensed-MediumItalic.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Open_Sans/static/OpenSansCondensed-MediumItalic.woff2') format('woff2'),
+         url('../fonts/Open_Sans/static/OpenSansCondensed-MediumItalic.woff') format('woff'),
+         url('../fonts/Open_Sans/static/OpenSansCondensed-MediumItalic.ttf') format('truetype');
     font-weight: 500;
     font-style: italic;
     font-display: swap;
@@ -84,11 +84,11 @@
 
 @font-face {
     font-family: 'Open Sans';
-    src: url('OpenSans-Regular.eot');
-    src: url('OpenSans-Regular.eot?#iefix') format('embedded-opentype'),
-        url('OpenSans-Regular.woff2') format('woff2'),
-        url('OpenSans-Regular.woff') format('woff'),
-        url('OpenSans-Regular.ttf') format('truetype');
+    src:  url('../fonts/Open_Sans/static/OpenSans-Regular.eot');
+    src:  url('../fonts/Open_Sans/static/OpenSans-Regular.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Open_Sans/static/OpenSans-Regular.woff2') format('woff2'),
+         url('../fonts/Open_Sans/static/OpenSans-Regular.woff') format('woff'),
+         url('../fonts/Open_Sans/static/OpenSans-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -96,11 +96,11 @@
 
 @font-face {
     font-family: 'Open Sans';
-    src: url('OpenSans-Medium.eot');
-    src: url('OpenSans-Medium.eot?#iefix') format('embedded-opentype'),
-        url('OpenSans-Medium.woff2') format('woff2'),
-        url('OpenSans-Medium.woff') format('woff'),
-        url('OpenSans-Medium.ttf') format('truetype');
+    src:  url('../fonts/Open_Sans/static/OpenSans-Medium.eot');
+    src:  url('../fonts/Open_Sans/static/OpenSans-Medium.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Open_Sans/static/OpenSans-Medium.woff2') format('woff2'),
+         url('../fonts/Open_Sans/static/OpenSans-Medium.woff') format('woff'),
+         url('../fonts/Open_Sans/static/OpenSans-Medium.ttf') format('truetype');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -108,11 +108,11 @@
 
 @font-face {
     font-family: 'Open Sans';
-    src: url('OpenSans-MediumItalic.eot');
-    src: url('OpenSans-MediumItalic.eot?#iefix') format('embedded-opentype'),
-        url('OpenSans-MediumItalic.woff2') format('woff2'),
-        url('OpenSans-MediumItalic.woff') format('woff'),
-        url('OpenSans-MediumItalic.ttf') format('truetype');
+    src:  url('../fonts/Open_Sans/static/OpenSans-MediumItalic.eot');
+    src:  url('../fonts/Open_Sans/static/OpenSans-MediumItalic.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Open_Sans/static/OpenSans-MediumItalic.woff2') format('woff2'),
+         url('../fonts/Open_Sans/static/OpenSans-MediumItalic.woff') format('woff'),
+         url('../fonts/Open_Sans/static/OpenSans-MediumItalic.ttf') format('truetype');
     font-weight: 500;
     font-style: italic;
     font-display: swap;
@@ -120,11 +120,11 @@
 
 @font-face {
     font-family: 'Open Sans';
-    src: url('OpenSans-Light.eot');
-    src: url('OpenSans-Light.eot?#iefix') format('embedded-opentype'),
-        url('OpenSans-Light.woff2') format('woff2'),
-        url('OpenSans-Light.woff') format('woff'),
-        url('OpenSans-Light.ttf') format('truetype');
+    src:  url('../fonts/Open_Sans/static/OpenSans-Light.eot');
+    src:  url('../fonts/Open_Sans/static/OpenSans-Light.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Open_Sans/static/OpenSans-Light.woff2') format('woff2'),
+         url('../fonts/Open_Sans/static/OpenSans-Light.woff') format('woff'),
+         url('../fonts/Open_Sans/static/OpenSans-Light.ttf') format('truetype');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -132,11 +132,11 @@
 
 @font-face {
     font-family: 'Open Sans';
-    src: url('OpenSans-LightItalic.eot');
-    src: url('OpenSans-LightItalic.eot?#iefix') format('embedded-opentype'),
-        url('OpenSans-LightItalic.woff2') format('woff2'),
-        url('OpenSans-LightItalic.woff') format('woff'),
-        url('OpenSans-LightItalic.ttf') format('truetype');
+    src:  url('../fonts/Open_Sans/static/OpenSans-LightItalic.eot');
+    src:  url('../fonts/Open_Sans/static/OpenSans-LightItalic.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Open_Sans/static/OpenSans-LightItalic.woff2') format('woff2'),
+         url('../fonts/Open_Sans/static/OpenSans-LightItalic.woff') format('woff'),
+         url('../fonts/Open_Sans/static/OpenSans-LightItalic.ttf') format('truetype');
     font-weight: 300;
     font-style: italic;
     font-display: swap;
@@ -144,11 +144,11 @@
 
 @font-face {
     font-family: 'Open Sans Condensed';
-    src: url('OpenSansCondensed-Regular.eot');
-    src: url('OpenSansCondensed-Regular.eot?#iefix') format('embedded-opentype'),
-        url('OpenSansCondensed-Regular.woff2') format('woff2'),
-        url('OpenSansCondensed-Regular.woff') format('woff'),
-        url('OpenSansCondensed-Regular.ttf') format('truetype');
+    src:  url('../fonts/Open_Sans/static/OpenSansCondensed-Regular.eot');
+    src:  url('../fonts/Open_Sans/static/OpenSansCondensed-Regular.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Open_Sans/static/OpenSansCondensed-Regular.woff2') format('woff2'),
+         url('../fonts/Open_Sans/static/OpenSansCondensed-Regular.woff') format('woff'),
+         url('../fonts/Open_Sans/static/OpenSansCondensed-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -156,11 +156,11 @@
 
 @font-face {
     font-family: 'Open Sans SemiCondensed';
-    src: url('OpenSansSemiCondensed-Italic.eot');
-    src: url('OpenSansSemiCondensed-Italic.eot?#iefix') format('embedded-opentype'),
-        url('OpenSansSemiCondensed-Italic.woff2') format('woff2'),
-        url('OpenSansSemiCondensed-Italic.woff') format('woff'),
-        url('OpenSansSemiCondensed-Italic.ttf') format('truetype');
+    src:  url('../fonts/Open_Sans/static/OpenSansSemiCondensed-Italic.eot');
+    src:  url('../fonts/Open_Sans/static/OpenSansSemiCondensed-Italic.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Open_Sans/static/OpenSansSemiCondensed-Italic.woff2') format('woff2'),
+         url('../fonts/Open_Sans/static/OpenSansSemiCondensed-Italic.woff') format('woff'),
+         url('../fonts/Open_Sans/static/OpenSansSemiCondensed-Italic.ttf') format('truetype');
     font-weight: normal;
     font-style: italic;
     font-display: swap;
@@ -168,11 +168,11 @@
 
 @font-face {
     font-family: 'Open Sans SemiCondensed';
-    src: url('OpenSansSemiCondensed-Light.eot');
-    src: url('OpenSansSemiCondensed-Light.eot?#iefix') format('embedded-opentype'),
-        url('OpenSansSemiCondensed-Light.woff2') format('woff2'),
-        url('OpenSansSemiCondensed-Light.woff') format('woff'),
-        url('OpenSansSemiCondensed-Light.ttf') format('truetype');
+    src:  url('../fonts/Open_Sans/static/OpenSansSemiCondensed-Light.eot');
+    src:  url('../fonts/Open_Sans/static/OpenSansSemiCondensed-Light.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Open_Sans/static/OpenSansSemiCondensed-Light.woff2') format('woff2'),
+         url('../fonts/Open_Sans/static/OpenSansSemiCondensed-Light.woff') format('woff'),
+         url('../fonts/Open_Sans/static/OpenSansSemiCondensed-Light.ttf') format('truetype');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -180,11 +180,11 @@
 
 @font-face {
     font-family: 'Open Sans SemiCondensed';
-    src: url('OpenSansSemiCondensed-Medium.eot');
-    src: url('OpenSansSemiCondensed-Medium.eot?#iefix') format('embedded-opentype'),
-        url('OpenSansSemiCondensed-Medium.woff2') format('woff2'),
-        url('OpenSansSemiCondensed-Medium.woff') format('woff'),
-        url('OpenSansSemiCondensed-Medium.ttf') format('truetype');
+    src:  url('../fonts/Open_Sans/static/OpenSansSemiCondensed-Medium.eot');
+    src:  url('../fonts/Open_Sans/static/OpenSansSemiCondensed-Medium.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Open_Sans/static/OpenSansSemiCondensed-Medium.woff2') format('woff2'),
+         url('../fonts/Open_Sans/static/OpenSansSemiCondensed-Medium.woff') format('woff'),
+         url('../fonts/Open_Sans/static/OpenSansSemiCondensed-Medium.ttf') format('truetype');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -192,11 +192,11 @@
 
 @font-face {
     font-family: 'Open Sans SemiCondensed';
-    src: url('OpenSansSemiCondensed-Regular.eot');
-    src: url('OpenSansSemiCondensed-Regular.eot?#iefix') format('embedded-opentype'),
-        url('OpenSansSemiCondensed-Regular.woff2') format('woff2'),
-        url('OpenSansSemiCondensed-Regular.woff') format('woff'),
-        url('OpenSansSemiCondensed-Regular.ttf') format('truetype');
+    src:  url('../fonts/Open_Sans/static/OpenSansSemiCondensed-Regular.eot');
+    src:  url('../fonts/Open_Sans/static/OpenSansSemiCondensed-Regular.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Open_Sans/static/OpenSansSemiCondensed-Regular.woff2') format('woff2'),
+         url('../fonts/Open_Sans/static/OpenSansSemiCondensed-Regular.woff') format('woff'),
+         url('../fonts/Open_Sans/static/OpenSansSemiCondensed-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
