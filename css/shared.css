@@ -407,6 +407,7 @@ body{
 
 /*header section*/
 .header-title{
+    color:#20292f;
     display:inline-block;
     font-size:24px;
     font-weight:bold;
