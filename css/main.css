@@ -1,7 +1,7 @@
 /*main section*/
 .main-section__banner{
      width:100%;
-    padding-top:160px;
+    padding-top:10rem;
     padding-bottom:13vw;
     background-size: contain;
     background-position: center bottom 0px;
@@ -30,7 +30,7 @@
 .main-section__title{
     color:#fff;
     font-size:54px;
-    margin-left:38px;
+    margin-left:2.375rem;
 }
 .main-section__description{
     font-family: 'Open Sans', sans-serif;
