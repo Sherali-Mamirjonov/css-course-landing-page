@@ -59,14 +59,14 @@
     margin-right:13.75rem;
 }
 .additional-section p{
-    margin-right:50px;
+    margin-right:3.125rem;
 }
 .url{
-    font-size:28px;
+    font-size:1.75rem;
     font-weight:bold;
 }
 .url-price{
-    font-size:13px;
+    font-size:0.82rem;
     color:#00000066;
     font-weight:bold;
 }
@@ -75,10 +75,10 @@
 .services-section{
     display:flex;
     justify-content: space-evenly;
-    margin-top:140px;
+    margin-top:8.75rem;
 }
 .services-info{
-    margin-left:180px;
+    margin-left:11.25rem;
 }
 .service-button{
     margin-left:0;
@@ -90,13 +90,13 @@
     border:1px solid #FFF;
 }
 .title{
-    font-size:24px;
+    font-size:1.5rem;
     opacity:0.7;
 }
 .click{
     border:none;
     color: #2970FA;
-    font-size:12px;
+    font-size:0.75rem;
     text-transform: uppercase;
     letter-spacing: 1px;
     font-weight:bold;
@@ -108,11 +108,11 @@
     justify-content: space-evenly;
 }
 .service-card-1, .service-card-3{
-    margin-top:80px;
+    margin-top:5rem;
 }
 .service-card-2{
     position: absolute;
-    top:-105px;
+    top:-6.56rem;
 }
 .service-card-1, .service-card-2,.service-card-3{
     background: #F8FAFF;
@@ -123,12 +123,12 @@
 .features-section{
     display:flex;
     justify-content: center;;
-    margin-top:140px;
+    margin-top:8.75rem;
 }
 .features-image img{
     width:404px;
     height:238px;
-    margin-left:50px;
+    margin-left:3.125rem;
 }
 
 .features-infos{
@@ -138,8 +138,8 @@
 .info1{
     display:flex;
     justify-content: center;
-    margin:60px 107px 0px;
-    padding:60px 0px 27px;
+    margin:3.75rem 6.69rem 0px;
+    padding:3.75rem 0px 1.69rem;
 }
 .info1 img{
     margin-right:20px;
