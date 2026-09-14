@@ -142,25 +142,25 @@
     padding:3.75rem 0px 1.69rem;
 }
 .info1 img{
-    margin-right:20px;
+    margin-right:1.25rem;
     width:60px;
     height:60px;
 }
 .feature-description{
     font-family: 'Open Sans', sans-serif;
-    font-size:14px;
+    font-size:0.875rem;
     color:#666666;
     line-height:27px;
-    margin-right:25px;
+    margin-right:1.56rem;
 }
 .info2{
-    margin-top:-85px;
+    margin-top:-5.31rem;
 }
 
 /*Pricing section*/
 .pricing-banner{
     width:100%;
-    padding-top:60px;
+    padding-top:3.75rem;
     padding-bottom:12vw;
     background-repeat:no-repeat;
      background-size: contain;
@@ -174,15 +174,15 @@
     text-align:center;
 }
 .pricing-cards{
-    margin-top:70px;
-    margin-left:70px;
+    margin-top:4.375rem;
+    margin-left:4.375rem;
     display:flex;
     justify-content: center;
 }
 .pricing-card{
     background:#FFF;
     border:1px solid #EEF9FF;
-    border-radius:30px;
+    border-radius:1.875rem;
     width:23%;
     margin-right:3%;
     height:588px;
@@ -190,8 +190,8 @@
 }
 .pricing-item{
     font-family: 'Open Sans',sans-serif;
-    margin-left:15px;
-    font-size:16px;
+    margin-left:0.94rem;
+    font-size:1rem;
     color: #666666;
     line-height:57px;
 }
