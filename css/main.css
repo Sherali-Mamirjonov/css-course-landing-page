@@ -453,29 +453,29 @@
 }
 .satisfaction-card h2{
     text-align: center;
-    font-size:26px;
+    font-size:1.625rem;
     color:#ffffff;
     font-family:Arial, Helvetica, sans-serif;
     padding: 0px 0px 10px;
 }
 .satisfaction-card p{
-    font-size:16px;
+    font-size:1rem;
     font-family: 'Open Sans', sans-serif;
     color:#ffffff;
     line-height:27px;
     text-align: center;
 }
 .satisfaction-btn{
-    margin-left:30px;;
+    margin-left:1.875rem;
     border-color: #FF8F001A;
     border:1px solid #FF8F001A;
     border-radius:5px;
     background-color:#263547;
     color: #fff;
-    padding:15px 30px;
+    padding:0.94rem 1.875rem;
     text-transform: uppercase;
     cursor: pointer;
-    margin-top:20px;
+    margin-top:1.25rem;
 }
 
 /*Additional section 2*/
