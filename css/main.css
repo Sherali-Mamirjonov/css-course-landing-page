@@ -480,7 +480,7 @@
 
 /*Additional section 2*/
 .additional-section__2{
-    margin-top:100px;
+    margin-top:6.25rem;
     background-size: contain;
     background-position: center top;
     background-image: url(https://www.elegantthemes.com/layouts/wp-content/uploads/2018/08/hosting-company-11.png), linear-gradient(237deg, #46b3ff 0%, #0752fe 100%) !important;
@@ -492,12 +492,12 @@
     text-align:center;
 }
 .add-title{
-    font-size:52px;
+    font-size:3.25rem;
     font-family:Arial, Helvetica, sans-serif;
     color:#fff;
 }
 .add-description{
-    font-size:16px;
+    font-size:1rem;
     font-family:'Open Sans', sans-serif;
     color:#fff;
     line-height:28px;
@@ -513,26 +513,26 @@ footer{
     width:100%;
     height:auto;
     background-color: #1f1f1f;
-    padding: 15px 0 5px;
+    padding: 0.94rem 0 0.32rem;
 }
 .footer-infos{
     display: flex;
     justify-content: space-evenly;
-    margin-left:200px;
+    margin-left:12.5rem;
 }
 .blur{
     display:flex;
     width:0.2px;
     height:15px;
     color:white;
-    margin-top:16px;
+    margin-top:1rem;
 }
 .footer-info-1{
-    margin-right:10px;
+    margin-right:0.625rem;
     color:#666666;
 }
 .footer-info-2{
-    margin-left:10px;
+    margin-left:0.625rem;
     color:#666666;
 }
 .footer-info-1 a, .footer-info-2 a{
@@ -543,13 +543,13 @@ footer{
 .footer-contacts{
     display:flex;
     justify-content: space-evenly;
-    margin-right:190px;
-    margin-top:10px;
+    margin-right:11.875rem;
+    margin-top:0.625rem;
 }
 .footer-contact a{
     text-decoration: none;
 }
 .footer-contact a i{
-    font-size:28px;
+    font-size:1.75rem;
     color:#666666;
 }
