@@ -196,27 +196,27 @@
     line-height:57px;
 }
 .pricing-button{
-    margin-left:90px;
+    margin-left:5.625rem;
     background: #FF8F001A;
     color:#FF8F00;
     border-color: #FF8F001A;
 }
 .pricing-button-2{
-    margin-left:90px;
+    margin-left:5.625rem;
     background:#0752fe;
     color:#FFFF;
     border-color:#0752fe;
 }
 
 .pricing-button-3{
-    margin-left:90px;
+    margin-left:5.625rem;
     background:rgba(41, 207, 141, 0.1);
     color:#29cf8d;
     border-color:#FFF;
 }
 
 .pricing-title, .pricing-title-2,.pricing-title-3{
-    margin-left:15px;
+    margin-left:0.94rem;
 }
 
 .pricing-subtitle-2{
@@ -226,13 +226,13 @@
     color:#29CF8D;
 }
 .pricing-subtitle, .pricing-subtitle-2, .pricing-subtitle-3{
-    margin-left:15px;
+    margin-left:0.94rem;
 }
 .disabled{
     color: #CCCCCC;
 }
 .pricing span{
-    font-size:16px;
+    font-size:1rem;
     color:#999999;
 }
 .pricing hr{
@@ -252,14 +252,14 @@
     background:#0752fe;
     color:#FFFF;
     border-color:#0752fe;
-    margin-top:20px;
+    margin-top:1.25rem;
 }
 .management-description{
     position: relative;
     left:40px;
 }
 .intro{
-    margin-left:40px;
+    margin-left:2.5rem;
     margin-top:0;
 }
 .management-info__first > div{
@@ -268,7 +268,7 @@
     right:5px;
 }
 .management-description{
-    margin-top:-10px;
+    margin-top:-0.625rem;
 }
 
 /*Additional section*/
@@ -288,13 +288,13 @@
 .additional-section__info h2{
     font-family: 'Rubik', sans-serif;
     font-weight: bold;
-    font-size: 52px;
+    font-size: 3.25rem;
     line-height: 1.2em;
     color:#fff;
     padding-bottom:10px;
 }
 .additional-section__info p{
-    font-size:16px;
+    font-size:1rem;
     font-family:'Open Sans', sans-serif;
     color:#fff;
     line-height:35px;
@@ -307,7 +307,7 @@
 .setup{
     display:flex;
     justify-content: space-evenly;
-    margin-top:55px;
+    margin-top:3.44rem;
 }
 .setup-image img{
     width:405px;
@@ -331,7 +331,7 @@
 .setup-features ul li{
     position: relative;
     line-height:45px;
-    font-size:16px;
+    font-size:1rem;
     font-weight:bolder;
     font-family: 'Open Sans', sans-serif;
     list-style: none;
@@ -339,7 +339,7 @@
 .custom{
     position:absolute;
     border-radius: 50%;
-    margin-top:-32px;
+    margin-top:-2rem;
     left:0;
     width:22px;
     height:22px;
@@ -360,7 +360,7 @@
 /*Customers section*/
 
 .customers{
-    margin-top:130px;
+    margin-top:8.125rem;
     position: relative;
     background-color: #fff;
     background-position: 50%;
