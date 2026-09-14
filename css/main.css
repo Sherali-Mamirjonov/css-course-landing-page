@@ -29,15 +29,15 @@
 }
 .main-section__title{
     color:#fff;
-    font-size:54px;
+    font-size:3.375rem;
     margin-left:2.375rem;
 }
 .main-section__description{
     font-family: 'Open Sans', sans-serif;
     color:#fff;
-    font-size:16px;
+    font-size:1rem;
     line-height:30px;
-    margin-left:45px;
+    margin-left:2.82rem;
     margin-top:-15px;
 }
 .section-button{
