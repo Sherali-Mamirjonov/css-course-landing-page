@@ -38,25 +38,25 @@
     font-size:1rem;
     line-height:30px;
     margin-left:2.82rem;
-    margin-top:-15px;
+    margin-top:-0.94rem;
 }
 .section-button{
     border:1px solid #263547;
     border-radius:5px;
     background-color:#263547;
     color: #fff;
-    padding:15px 30px;
+    padding:0.95rem 1.875rem;
     text-transform: uppercase;
     cursor: pointer;
 }
 .main-button{
-    margin-left:42px;
+    margin-left:2.625rem;
 }
 
 /*Additional section*/
 .additional-section{
     display: flex;
-    margin-right:220px;
+    margin-right:13.75rem;
 }
 .additional-section p{
     margin-right:50px;
